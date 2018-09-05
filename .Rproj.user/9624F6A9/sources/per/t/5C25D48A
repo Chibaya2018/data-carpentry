@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536095176108.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "993923323",
+    "id" : "5C25D48A",
+    "lastKnownWriteTime" : 1536104171,
+    "last_content_update" : 1536104171437,
+    "path" : "C:/Users/Madzvamuse/Desktop/data-carpentry/dataAnalysis.R",
+    "project_path" : "dataAnalysis.R",
+    "properties" : {
+        "cursorPosition" : "31,0",
+        "scrollLine" : "24",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
